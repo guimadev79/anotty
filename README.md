@@ -1,17 +1,131 @@
-# anotty
+# 📝 Anotty
 
-A new Flutter project.
+A modern and lightweight note-taking application built with **Flutter**. Anotty was designed to provide a fast, intuitive, and offline-first experience for creating, organizing, and sharing notes.
 
-## Getting Started
+<p align="center">
+  <img src="assets/icon/icon.png" width="120" alt="Anotty Logo">
+</p>
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📝 Create, edit and delete notes
+- 🔍 Search notes instantly
+- 📄 Export notes to PDF
+- 📤 Share notes with other apps
+- 💾 Offline storage using Hive
+- 📱 Material 3 user interface
+- ⚡ Fast and lightweight
+- 📲 Google AdMob integration
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+> Add screenshots of your app here.
+
+| Home | Editor | PDF |
+|------|--------|-----|
+| Screenshot | Screenshot | Screenshot |
+
+---
+
+## 🛠️ Built With
+
+- Flutter
+- Dart
+- Hive
+- Flutter Material 3
+- PDF
+- Printing
+- Share Plus
+- Google Mobile Ads (AdMob)
+
+---
+
+## 📂 Project Structure
+
+```text
+lib/
+ ├── core/
+ ├── features/
+ │    ├── home/
+ │    ├── notes/
+ │    ├── settings/
+ │    └── shared/
+ ├── services/
+ └── main.dart
+```
+
+---
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/SEU_USUARIO/anotty.git
+```
+
+### Enter the project
+
+```bash
+cd anotty
+```
+
+### Install dependencies
+
+```bash
+flutter pub get
+```
+
+### Run
+
+```bash
+flutter run
+```
+
+---
+
+## 📦 Build
+
+Android APK
+
+```bash
+flutter build apk --release
+```
+
+Android App Bundle
+
+```bash
+flutter build appbundle --release
+```
+
+---
+
+## 📋 Requirements
+
+- Flutter 3.x+
+- Dart 3.x+
+- Android Studio or VS Code
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+Feel free to fork the project and submit a Pull Request.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👨‍💻 Developer
+
+Developed with ❤️ by **JeanDev**
+
+Belém • Pará • Brazil 🇧🇷
