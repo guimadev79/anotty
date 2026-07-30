@@ -3,7 +3,7 @@
 A modern and lightweight note-taking application built with **Flutter**. Anotty was designed to provide a fast, intuitive, and offline-first experience for creating, organizing, and sharing notes.
 
 <p align="center">
-  <img src="assets/icon/icon.png" width="120" alt="Anotty Logo">
+  <img src="assets/images/app_icon.png" width="120" alt="Anotty Logo">
 </p>
 
 ## ✨ Features
