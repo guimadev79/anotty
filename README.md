@@ -85,7 +85,7 @@ lib/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/SEU_USUARIO/anotty.git
+git clone https://github.com/guimadev79/anotty.git
 ```
 
 ### Enter the project
