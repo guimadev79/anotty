@@ -21,11 +21,33 @@ A modern and lightweight note-taking application built with **Flutter**. Anotty 
 
 ## 📸 Screenshots
 
-> Add screenshots of your app here.
+<p align="center">
+  <img src="screenshots/logo.png" alt="Anotty Logo" width="180">
+</p>
 
-| Home | Editor | PDF |
-|------|--------|-----|
-| Screenshot | Screenshot | Screenshot |
+<h1 align="center">📝 Anotty</h1>
+
+<p align="center">
+  A modern and lightweight note-taking application built with Flutter.
+</p>
+
+---
+
+# 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/tela01.png" width="220" alt="Home">
+  <img src="screenshots/tela02.png" width="220" alt="Editor">
+</p>
+
+<p align="center">
+  <img src="screenshots/tela03.png" width="220" alt="Search">
+  <img src="screenshots/tela04.png" width="220" alt="Settings">
+</p>
+
+<p align="center">
+  <img src="screenshots/tela05.png" width="220" alt="PDF Export">
+</p>
 
 ---
 
